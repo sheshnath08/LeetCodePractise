@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SpiralMatrix {
-    public List<Integer> spiralOrder(int[][] matrix) {
+    public List<Integer> spiralOrder(int[][] matrix, int r,int c) {
         List<Integer> res = new ArrayList<>();
         int m = matrix.length;
         if(m<=0){
