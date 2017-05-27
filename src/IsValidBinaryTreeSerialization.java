@@ -1,5 +1,3 @@
-package misc;
-
 /**
  * Created by sheshnath on 5/26/2017.
  * problem link: https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree
