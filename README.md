@@ -7,3 +7,4 @@ This repository contains solutions of the leetcode problems
 * MedianFinder.jsvs contains solution for [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/#/description)
 * SerializeDeserializeBST.java contains solution for [Serialize Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
 * RotateImage.java contains solution for [Rotate Image](https://leetcode.com/problems/rotate-image/)
+* RotateList.java contains soltion for [Rotate List by K](https://leetcode.com/problems/rotate-list/)
